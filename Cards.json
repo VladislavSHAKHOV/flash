@@ -1,0 +1,71 @@
+[
+    {   "name": "FLASH ENERGY FRUIT MIX",
+        "price": "1.99",
+        "artikle": "AWF32RF",       
+        "url" : "https://eng.baltika.ru/media/39113/flashup_can-mockup_berries1-3.png"
+    },
+    {   "name": "FLASH ENERGY KIWI",
+        "price": "1.99",
+        "artikle": "4TN4J3G",   
+        "url" : "https://carlsbergkazakhstan.kz/media/28828/ru_flash-up-can.png"
+    },
+    {   "name": "FLASH ENERGY KARAMEL",
+        "price": "1.99",
+        "artikle": "F34LKGG",
+        "url" : "https://corporate.baltika.ru/media/49058/ru_flash-up-ultra_can0-45.png"
+    },
+    {   "name": "FLASH ENERGY APPLE",
+        "price": "1.99",
+        "artikle": "",
+        "url" : "https://shop.intobasket.com/uploads/items/202211300145580.png_thumb.png"
+    },
+    
+    {   "name": "FLASH ENERGY APPLE-KIWI",
+        "price": "1.99",
+        "artikle": "32KLNFL",
+        "url" : "https://candycargo.co.uk/cdn/shop/products/KOM01.png?v=1644232666"
+    },
+    
+    {   "name": "FLASH ENERGY MANGO",
+        "price": "1.99",
+        "artikle": "FL3QMLF",
+        "url" : "https://www.frucorsuntory.com/wp-content/uploads/2021/08/09415767017337_C1N1.png"
+    },
+    
+    {   "name": "FLASH ENERGY STROWBERRY",
+        "price": "1.99",
+        "artikle": "23LKJFJK",
+        "url" : "https://api.longos.com/medias/00070847037613-1-base-conversionFormat-1200Wx1200H.png?context=bWFzdGVyfGltYWdlc3w2MzI1MTh8aW1hZ2UvcG5nfGhiMy9oZjYvOTM2MDg3Mzc1MDU1OC8wMDA3MDg0NzAzNzYxM18xX2Jhc2UtY29udmVyc2lvbkZvcm1hdF8xMjAwV3gxMjAwSHw4ODA4Njc2MzViYjAzM2RhODZkM2ExMzg5ZDBkYzEwYzU3NGUwZGRlZWM1Mjg1YmU3NTU4YmY3Y2QyMmU4ODZm"
+    },
+    
+    {   "name": "FLASH ENERGY COCONUT",
+        "price": "1.99",
+        "artikle": "2LK3FMG",
+        "url" : "https://www.checkers.co.za/medias/10542102EA-checkers515Wx515H?context=bWFzdGVyfGltYWdlc3wxOTc4NzF8aW1hZ2UvcG5nfGltYWdlcy9oNmIvaGE5LzEwMTMzNjE0NDI4MTkwLnBuZ3w3NDA1MTk1OTUyNmYwMjljN2ZlNDY1NmNjMjg3MzQzNDc0MjU4YTJhYTg4OTQ5OGEyMzRkZWIyOWQ1YzNjNjUw"
+    },
+    
+    {   "name": "FLASH ENERGY GRAPE",
+        "price": "1.99",
+        "artikle": "FF2L3MFN",
+        "url" : "https://www.gocart.city/image/cache/catalog/Products/Beverages/Sports_Energy/MOBSE473UPD-600x600.png"
+    },
+    
+    {   "name": "FLASH ENERGY BLUEBERRY",
+        "price": "1.99",
+        "artikle": "KMAKLWGN",
+        "url" : "https://cdn.dirigible.studio/wp-content/uploads/sites/2/2022/08/17120622/rockstar.png.webp"
+    },
+    
+    {   "name": "FLASH ENERGY GOLD APPLE",
+        "price": "1.99",
+        "artikle": "HQWVJWH",
+        "url" : "https://e-snacks.gr/wp-content/uploads/2022/11/ghost_energy_drink_sour_patch_redberry_e_snacks_600x600.png"
+    },
+    
+    {   "name": "FLASH ENERGY MILLITARY",
+        "price": "1.99",
+        "artikle": "OPQWJFGI2",
+        "url" : "https://www.checkers.co.za/medias/10542101EA-checkers515Wx515H?context=bWFzdGVyfGltYWdlc3wxOTAxMzd8aW1hZ2UvcG5nfGltYWdlcy9oYjgvaDI1LzEwMTMzNjEyNzI0MjU0LnBuZ3xlM2FlNGJmNjVkYWI4ZjExMzVjOTdmMjUwMDYzYzA5YmUyZDJkZjI4YmU1NjNiMmU2ODQxYzFlM2Y1MzEzZWEx"
+    }
+    
+]
